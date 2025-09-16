@@ -1,7 +1,7 @@
 # Exno.7 – Prompt-based Application  
 **Title:** Creative Learning Companion  
-**Name:** TARUN GM  
-**Register Number:** 212223060284  
+**Name:** GUGAPRIYA P
+**Register Number:** 212223060075  
 
 ---
 
